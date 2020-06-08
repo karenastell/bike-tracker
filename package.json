@@ -1,0 +1,23 @@
+{
+  "name": "bike-tracker",
+  "version": "1.0.0",
+  "description": "application to track bike progress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karenastell/bike-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karenastell/bike-tracker/issues"
+  },
+  "homepage": "https://github.com/karenastell/bike-tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.26.0"
+  }
+}
