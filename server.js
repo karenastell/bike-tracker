@@ -3,7 +3,7 @@ const app = express();
 const apiRoutes = require("./routes/apiRoutes")
 const htmlRoutes = require("./routes/htmlRoutes")
 
-const PORT = 8080;
+const PORT = 8090;
 
 
 // all the routes made in apiRoutes and html routes will be able to be used in this file
