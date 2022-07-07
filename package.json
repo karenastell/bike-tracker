@@ -18,6 +18,6 @@
   "homepage": "https://github.com/karenastell/bike-tracker#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "moment": "^2.26.0"
+    "moment": "^2.29.4"
   }
 }
